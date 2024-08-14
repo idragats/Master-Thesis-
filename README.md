@@ -1,6 +1,6 @@
 # Master-Thesis-Predict-Material-Properties
 
-In this MSc thesis we use Lammps Enviroment, and python to calculate crystal properties like RDF (Radial Distribution Function), 
+In this <a href="https://ikee.lib.auth.gr/record/343701" target="_blank" rel="noreferrer"/>MSc thesis <a/> we use Lammps Enviroment, and python to calculate crystal properties like RDF (Radial Distribution Function), 
 ADF (Angular Distribution Function), VACF (Velocity Auto-Corelation Function) and DOS (Density of State). 
 The materials that we used were bulk Si, bulk SiO2, Si [100] surface and SiO2 surface. 
 For Si we generated atomic positions data with python library called ASE (Atomic Simulation Enviroment) at 300 K. 
